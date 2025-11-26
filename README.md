@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MronRunned/Terraform-New-Dawn/raw/a6ca68dca2b114d46ffcba7514d8cc02ec8a5bb9/banner.webp" alt="Terraform: New Dawn Banner" width="500" style="border-radius: 20px;"/>
+  <img src="https://github.com/MronRunned/Terraform-New-Dawn-Reborn/blob/main/banner.png?raw=true" alt="Terraform: New Dawn Reborn Banner" width="500" style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center">🌱 Terraform: New Dawn Reborn</h1>
