@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.1.0%20Alpha-ff6b35?style=for-the-badge&logo=starship&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <p align="center">
