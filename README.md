@@ -23,11 +23,11 @@
 # Clone using this URL
 ## https://github.com/MronRunned/Terraform-New-Dawn-Reborn.git
 
-```cpp
+```java
 // Your journey begins here
-World::create("New Horizon");
-Player::becomePioneer();
-Dawn::await();
+World.create("New Horizon");
+Player.becomePioneer();
+Dawn.await();
 ```
 ## 🎯 What Makes It Unique
 
