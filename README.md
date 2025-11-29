@@ -56,9 +56,9 @@ Dawn.await();
 ## 🤝 Community Impact
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/MronRunned/Terraform-New-Dawn?style=flat-square" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/MronRunned/Terraform-New-Dawn?style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/MronRunned/Terraform-New-Dawn?style=flat-square" alt="Issues"/>
+  <img src="https://img.shields.io/github/stars/MronRunned/Terraform-New-Dawn-Reborn?style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/MronRunned/Terraform-New-Dawn-Reborn?style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/MronRunned/Terraform-New-Dawn-Reborn?style=flat-square" alt="Issues"/>
 </p>
 
 ## Estimated release date: September 28!
