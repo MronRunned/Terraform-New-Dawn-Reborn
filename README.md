@@ -61,7 +61,7 @@ Dawn.await();
   <img src="https://img.shields.io/github/issues/MronRunned/Terraform-New-Dawn-Reborn?style=flat-square" alt="Issues"/>
 </p>
 
-## Estimated release date: September 28!
+## Estimated release date: Today, 30 November 2025 02:00:00!
 
 ## 📊 Development Progress Map
 
